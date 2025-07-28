@@ -1,0 +1,2 @@
+# DC-Motor-Speed-and-Direction-Control-with-Servo-Oscillation-via-Bluetooth-Arduino-Based-
+This project demonstrates a **smart control system** for a DC motor and a servo motor using an **Arduino Uno** and **Bluetooth communication**. The setup allows real-time motor speed and direction adjustments along with servo oscillation, all controlled remotely through commands and displayed on an **LCD screen**.
